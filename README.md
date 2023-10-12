@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ewahedie@yahoo.com**
 
-- 📄 Know about my experiences [Resume]([https://cvster.nl/r/vTKVRKKxN](https://cvster.nl/r/Qb8Rmobe5))
+- 📄 Know about my experiences [https://cvster.nl/r/Qb8Rmobe5](https://cvster.nl/r/Qb8Rmobe5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
