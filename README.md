@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ehsan Wahedie</h1>
 <h3 align="center">A motivated fullstack developer from The Netherlands</h3>
 
-- 🌱 I’m currently learning **Front-End frameworks, Database, Python**
+- 🌱 I’m currently learning **Laravel, Database, TailwindCSS**
 
 - 📫 How to reach me **ewahedie@yahoo.com**
 
